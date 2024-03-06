@@ -1,5 +1,5 @@
 # DEV | Matheus Sucupira
-***Apaixonado por tecnologia desde criança***. Comecei meus estudos na área da programação em maio de 2022 com a linguagem **Python**, porém, somente 6 meses depois decidi ser desenvolvedor Full Stack. Em Julho de 2023 comprei um PC para me dedicar aos estudos.
+***Apaixonado por tecnologia desde criança***. Comecei meus estudos na área da programação em maio de 2022 com a linguagem **Python**, porém, somente 6 meses depois decidi ser desenvolvedor Front End Stack. Em Julho de 2023 comprei um PC para me dedicar aos estudos.
 
 ## Habilidades 👨🏽‍💻 ##
 - HTML
